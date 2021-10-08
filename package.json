@@ -1,0 +1,22 @@
+{
+  "name": "order-summary-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerriEzeocha/order-summary-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerriEzeocha/order-summary-component/issues"
+  },
+  "homepage": "https://github.com/GerriEzeocha/order-summary-component#readme"
+}
